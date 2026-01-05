@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1765831762 source:e:\cpp projects\summer holiday projects\manager_cars\main.cpp
+	<iostream>
+	<iomanip>
+	<limits>
+	<cstdlib>
+	<ctime>
+	<cctype>
+	<string>
+
+1765834180 source:e:\cpp projects\summer holiday projects\nkcp_lottery_game\main.cpp
+	<iostream>
+	<iomanip>
+	<limits>
+	<cstdlib>
+	<ctime>
+	<cctype>
+	<string>
+
